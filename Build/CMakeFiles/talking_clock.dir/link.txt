@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/talking_clock.dir/talking_clock.cpp.o CMakeFiles/talking_clock.dir/time.cpp.o  -o bin/talking_clock 

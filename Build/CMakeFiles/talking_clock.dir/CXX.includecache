@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/Documents/CPP/Talking Clock/time.cpp
+time.h
+/home/alex/Documents/CPP/Talking Clock/time.h
+
+/home/alex/Documents/CPP/Talking Clock/time.h
+iostream
+-
+
